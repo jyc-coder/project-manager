@@ -1,5 +1,5 @@
 import React, {useCallback, useEffect} from 'react';
-import {Avatar, Button, Card, CardActions, CardContent, CircularProgress, Typography, Link} from '@mui/material';
+import {Avatar, Button, Card,CardContent, CircularProgress, Typography, Link} from '@mui/material';
 import {useGithubUserStore} from './../../store/githubUser';
 import {useLocation, useParams, useNavigate} from 'react-router-dom';
 import dayjs from 'dayjs';
