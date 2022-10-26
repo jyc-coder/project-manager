@@ -191,3 +191,10 @@ $RECYCLE.BIN/
 
 # api-Key
 *.env
+
+# Firebase
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
